@@ -67,6 +67,7 @@ nav>a {
     text-decoration: none;
     padding: 10px;
     font-weight: bold;
+    border-radius: 2px;
     transition: 0.5s;
 }
 
